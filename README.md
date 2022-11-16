@@ -4,4 +4,4 @@ The repository was cloned to Anthonia's github account and Chris was invited to 
 
 All files were created and compiled on Ubuntu 20.04
 
-Authors Anthonia Godwin and Chris Olabode.
+Authors Anthonia Godwin and Chris Olabode
